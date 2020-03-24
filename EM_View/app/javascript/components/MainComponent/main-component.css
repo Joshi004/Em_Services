@@ -1,0 +1,12 @@
+.appHeader{
+    text-align: center;
+    font-size: 25px;
+}
+
+.mainDiv{
+    height: 100%;
+}
+
+a:hover {
+    text-decoration: none;
+  }
